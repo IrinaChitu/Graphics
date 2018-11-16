@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1458114220 source:c:\users\elev\desktop\11i\grafica\main.cpp
+	<iostream>
+	<graphics.h>
+	<conio.h>
+
+1458114528 source:h:\grafica\main.cpp
+	<iostream>
+	<graphics.h>
+	<conio.h>
+
+1459782981 source:d:\informatica\codeblocks\grafica\main.cpp
+	<iostream>
+	<graphics.h>
+	<conio.h>
+
